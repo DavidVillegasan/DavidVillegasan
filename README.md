@@ -9,7 +9,7 @@ Actualmente estoy cursando el primer curso de **Desarrollo de Aplicaciones Multi
 >"El dinero no me hace feliz,
 >me hace falta."
 
-Puedes contartar conmigo a través de culaquier red social o enviándome un [correo electrónico](davidvillegasgarcia@gmail.com) 📧.
+<!--!Puedes contartar conmigo a través de culaquier red social o enviándome un [correo electrónico](davidvillegasgarcia@gmail.com) 📧.-->
 
 Puedes contartar conmigo a través de culaquier red social o enviándome un <a href="mailto:davidvillegasgarcia@gmail.com">correo electrónico</a> 📧.
 
